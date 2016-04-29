@@ -1,0 +1,12 @@
+{
+    "name": "4gekkman/4gekkman-bower-prefixfree",
+		"description": "Prefixfree 1.0.7",
+    "license": "4gekkman@gmail.com",
+    "authors": [
+        {
+            "name": "4gekkman",
+            "email": "4gekkman@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,12 @@
+{
+  "name": "4gekkman-bower-prefixfree",
+  "description": "Prefixfree 1.0.7",
+  "main"  : ["prefixfree.min.js"],
+  "repository": {
+    "type": "git", "url": "git://github.com/4gekkman/4gekkman-bower-prefixfree.git"
+  },
+  "ignore": [
+    "readme.md",
+    "composer.json"
+  ]
+}
